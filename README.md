@@ -24,3 +24,5 @@ Réalisation d'une application qui permet a lecture de BD selon le choix de l'ut
 
 - [David Dechaine](https://github.com/DavidDechaine)
 
+## À ne pas oublier
+Rajouter votre local.propreties pour la location de votre SDK
