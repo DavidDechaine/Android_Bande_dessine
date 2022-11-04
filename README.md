@@ -15,7 +15,7 @@ Réalisation d'une application qui permet a lecture de BD selon le choix de l'ut
 - Activity
 - ViewModels (MVVM)
 - ViewModelFactory
-- Volley (Requête à un API)
+- Volley (Requête à une API)
 - Désérialisation Gson
 - Utilisation de models pour Désérialisation
 - Librairie Picasso
